@@ -33,6 +33,11 @@ gem 'simple_form'
 #Add Devise for authetification
 gem 'devise'
 
+#Add images
+gem 'carrierwave'
+gem "figaro"
+gem "fog"
+
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
